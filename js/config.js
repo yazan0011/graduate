@@ -14,7 +14,7 @@ export const CONFIG = {
       field: 'Computer Science',
       year: '2026',
       quote: 'Every ending is simply\nthe beginning of something new.',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=1600&fit=crop&q=80',
+      image: 'assets/portraits/yazan.png',
     },
     {
       id: 'graduate-2',
@@ -23,7 +23,7 @@ export const CONFIG = {
       field: 'Architecture',
       year: '2026',
       quote: 'Built from years of dreams.',
-      image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=1600&fit=crop&q=80',
+      image: 'assets/portraits/yahya.png',
     },
     {
       id: 'graduate-3',
@@ -32,7 +32,7 @@ export const CONFIG = {
       field: 'Business Administration',
       year: '2026',
       quote: 'Made it. Together.',
-      image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&h=1600&fit=crop&q=80',
+      image: 'assets/portraits/mohammad.png',
     },
   ],
 
