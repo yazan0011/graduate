@@ -9,8 +9,8 @@ export const CONFIG = {
   graduates: [
     {
       id: 'graduate-1',
-      name: 'AHMED',
-      fullName: 'Ahmed Hassan',
+      name: 'YAZAN',
+      fullName: 'Yazan Mazen Alomar',
       field: 'Computer Science',
       year: '2026',
       quote: 'Every ending is simply\nthe beginning of something new.',
@@ -18,8 +18,8 @@ export const CONFIG = {
     },
     {
       id: 'graduate-2',
-      name: 'OMAR',
-      fullName: 'Omar Khalil',
+      name: 'YAHYA',
+      fullName: 'Yahya Waleed Farhan',
       field: 'Architecture',
       year: '2026',
       quote: 'Built from years of dreams.',
@@ -27,8 +27,8 @@ export const CONFIG = {
     },
     {
       id: 'graduate-3',
-      name: 'ALI',
-      fullName: 'Ali Rahman',
+      name: 'MOHAMMAD',
+      fullName: 'Mohammad Kamal Abdalazeeze',
       field: 'Business Administration',
       year: '2026',
       quote: 'Made it. Together.',
